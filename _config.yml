@@ -12,7 +12,7 @@ title                    : "Ethan's Site"
 title_separator          : "-"
 name                     : &name "Ethan T Hoben"
 description              : &description "personal description"
-url                      : https://ethanthoben.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ethanthoben.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "EthanTHoben/EthanHoben.github.io"
 
