@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-The Library
-======
 Welcome to Ethan's personal library! I am an amateur librarian and rare books collector, with an emphasis on technical content from STEM fields. As my background is in electrical engineering, I started out collecting useful texts on a variety of EE topics, and eventually branched out into collection any text I think will be an interesting topic to learn about.
 
 ## Contents
