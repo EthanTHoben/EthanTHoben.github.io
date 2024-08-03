@@ -1,13 +1,16 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+
   - title: "Portfolio"
     url: /portfolio/
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "CV"
-    url: /cv/
+  - title: "Organizations and Societies"
+    url: /org/
 
   - title: "Personal Library"
     url: /lb/
