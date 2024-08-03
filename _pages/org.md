@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Organizations and Societies"
-permalink: /cv/
+permalink: /org/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,11 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Organizations
+I am a member of various organizations, most of which are geared towards STEM outreach, education, research, etc. The following is a list of all organizations I am a part of along with to what extent.
+* 
 
 Work experience
 ======
