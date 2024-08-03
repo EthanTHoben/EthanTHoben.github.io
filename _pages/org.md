@@ -10,53 +10,16 @@ redirect_from:
 {% include base_path %}
 
 ## Organizations
-I am a member of various organizations, most of which are geared towards STEM outreach, education, research, etc. The following is a list of all organizations I am a part of along with to what extent.
-* 
+I am a member of various organizations, most of which are geared towards STEM outreach, education, research, etc. The following is a list of all organizations of which I am a part.
+* [Alabama STEAMfest](https://www.alabamascience.org/), Northrop Grumman Board Member and Volunteering Coordinator
+* SNEK Aerospace, Chief Engineer
+* [National Space Club](https://www.spaceclubhsv.org/), Northrop Grumman Representative and Volunteer
+* [NACS](https://www.nacslab.com/), Student Collaborator and Former Senior Design Team Member
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Professional Societies
+I am a member of several professional soceities, all of which are engineering focused. The following is a list of all professional societies of  which I am a part.
+* [Eta Kappa Nu](https://hkn.ieee.org/), Theta Eta chapter, Current President
+* [Tau Beta Pi](https://www.tbp.org/recruit/recruitHome.cfm), AL Delta chapter, Former Vice President and Events Coordinator
+* [Tau Beta Pi](https://www.tbp.org/memb/alumniChapters.cfm), Rocket City Alumni Chapter, Former President and Current Secretary
+* [IEEE](https://www.ieee.org/), Professional Member
+* [AIAA](https://www.aiaa.org/), Professional Member

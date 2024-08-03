@@ -12,6 +12,9 @@ main:
   - title: "Organizations and Societies"
     url: /org/
 
+  - title: "Honors and Awards"
+    url: /honors/
+
   - title: "Personal Library"
     url: /lb/
     
