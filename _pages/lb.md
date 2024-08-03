@@ -11,6 +11,18 @@ redirect_from:
 
 Welcome to Ethan's personal library! I am an amateur librarian and rare books collector, with an emphasis on technical content from STEM fields. As my background is in electrical engineering, I started out collecting useful texts on a variety of EE topics, and eventually branched out into collection any text I think will be an interesting topic to learn about.
 
+## Library Stats
+======
+The amount of books that fall under the technical content umbrella are 277. The total size of my personal collection, which includes technical, historical, and literature is 407. 73.96% of the collection are hardcovers, 26.04% of the collection are paperbacks. The median book age is 40 years, the average book age is 42 years, the oldest book is from 1879, and the newest book is from 2024.
+
+## Collections
+======
+Within my library, I have various subsets of books that make up collections. My list of ongoing collections and completion percentage is listed below:
+* AIAA Progress in Astronautics and Aeronautics, 255 Volume set, 4.31% complete
+* Dover Books on Engineering, 28 Volume set, 96.42% complete
+* International Series of Monographs in Aeronautics and Astronautics, 19 Volume Set, 21.05% complete
+* Great Books of the Western World, 60 Volume set, 16.67% complete
+
 ## Contents
 
 | Title                                                                                        | Author                                                                       | Publish Year | H \| P? | ISBN # / Catalog #                                          |
