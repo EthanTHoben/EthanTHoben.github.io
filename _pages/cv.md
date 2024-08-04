@@ -26,15 +26,19 @@ Work experience
   * Northrop Grumman Defense Systems
   * Worked in an agile environment dealing with test automation and hardware integration testing. Test automation tools included Sensetalk and Python.
   
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software: C/ C++, Ada, Python, MATLAB, Arduino IDE, ARM Assembly, Eggplant/Sensetalk
+* Embedded Systems: Arduino, STM32, ESP32, MSP430, RP2040
+* Design Tools: FreeCAD, KiCAD, OpenRocket, OpenFoam, Elmer
+* Devops Tools: Git, Jira, Bitbucket, Docker, Jenkins, Artifactory
+* Technical Skills: Circuit design/development, 3D Fabrication, Chemistry, Soldering, Circuit Troubleshooting
+* Soft Skills: Good Communicator, Team Player, Leader
+
+Team Leadership
+======
+* SNEK Aerospace Chief Engineer: Lead the SNEK Aerospace team in designing, building, and testing custom advanced hobby rockets. The team is made up of 8 individuals and focuses on advanced avionics, thrust vector control, and high speeds.
+* Euclid Aerospace Chief Engineer: Lead the Euclid Aerospace team in designing, building, and testing custom advanced rocket systems. The team is made up of 7 individuals and focuses on modular rocket design, advanced GNC (Guidance, Navigation, and Control), and custom propellants.
   
 Talks
 ======
