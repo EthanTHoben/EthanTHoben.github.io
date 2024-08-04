@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Electrical Engineering, University of Alabama in Huntsville, 2025 (Expected)
+* B.S. in Electrical Engineering, University of Alabama in Huntsville, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Associate Software Engineer, 2023-Present
+  * Northrop Grumman Space Systems
+  * Work in an agile environment where I deal primarily with C++ and Ada. Work with subject matter experts to develop the best product in line with customer expectations. Work with program leadership to produce and communicate metrics to customers, work with SME to track requirements and brief leadership.
+* SPARK Principal Investigator, 2023-Present
+  * Northrop Grumman Space Systems
+  * Work as lead of my R&D group, investigating advanced fabrication methods for Antennas, RF lenses, and waveguides. The group objective is to provide Northrop Grumman with the capability to produce rapid prototypes of antennas inexpensively and quickly to support business objectives.
+* Software/Systems Engineering Intern, 2021-2023
+  * Northrop Grumman Defense Systems
+  * Worked in an agile environment dealing with test automation and hardware integration testing. Test automation tools included Sensetalk and Python.
+  
   
 Skills
 ======
@@ -40,23 +35,11 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
