@@ -1,0 +1,13 @@
+---
+title: "Talk on PCB Design Fundamentals with KiCAD"
+collection: talks
+type: "Talk"
+permalink: /talks/talk-2
+venue: "University of Alabama in Huntsville"
+date: 2024-03-06
+location: "Huntsville, Alabama "
+---
+
+This talk was given to the University of Alabama in Huntsville student chapter of the Institute of Electrical and Electronics Engineers (IEEE). The talk focused on PCB fundamentals, why they are important, and how to use tools like KiCAD to turn schematics into PCBs. Talk ended with a follow along demo for the students where they designed their own schematic and PCB using KiCAD. Demonstrated addition capabilities of open source software, including auto-routing toolchains.
+
+
