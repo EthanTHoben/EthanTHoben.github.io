@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: compress
 title: "Ethan's Library"
 permalink: /lb/
 author_profile: true

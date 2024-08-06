@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I created this website both as a convenient way to keep track the things I get up to, and as a way to show others what I'm about.
+I created this website both as a convenient way to keep track of the things I get up to, and as a way to show others what I'm about.
 
 Who am I?
 ======
@@ -25,6 +25,6 @@ This website is my current archive and display of the various things I get up to
 ======
 * I own 5 3D printers, and when they all run it is very loud
 * I own a dinosaur bone fragement from a *Dromaeosaurus* (AKA a Raptor) that was flown to space and back on the 15th flight of Blue Origin's New Shepard Rocket. My fragment is number 34 of 103. More info on how I got my hands on that [here](https://ethanthoben.github.io//service/).
-* I am an avid pin collector, and have 3 full display cases of pins, most of which are from various space organizations, such as NASA, Roscosmos, JAXA, ESA, etc. I also have various pins from various US defense contractors and their various programs, many of which came from my grandmother.
-* My favorite picture ever is known to some as "The Smartest Picture in History" and is of the 1927 Solvay Conference on Electrons and Photons attendees. I have a canvas print of this prominetly displayed, and view it as a reminder of who layed the foundation of our understanding of the universe. If interested, [here](https://rarehistoricalphotos.com/solvay-conference-probably-intelligent-picture-ever-taken-1927/) is some info on the picture.
+* I am an avid pin collector, and have 3 full display cases of pins, most of which are from various space organizations, such as NASA, Roscosmos, JAXA, ESA, etc. I also have pins from various US defense contractors and their programs, many of which came from my grandmother.
+* My all-time favorite picture is known to some as "The Smartest Picture in History" and is of the 1927 Solvay Conference on Electrons and Photons attendees. I have a canvas print of this prominetly displayed, and view it as a reminder of who layed the foundation of our understanding of the universe. If interested, [here](https://rarehistoricalphotos.com/solvay-conference-probably-intelligent-picture-ever-taken-1927/) is some info on the picture.
 * If I wasnt an engineer, it is highly likely I would be a lawyer.
