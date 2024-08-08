@@ -9,6 +9,18 @@ redirect_from:
 
 I created this website both as a convenient way to keep track of the things I get up to, and as a way to show others what I'm about.
 
+Areas of Interest
+======
+* Integrated Circuit (IC) Design and Fabrication
+* Advanced Manufacturing Techniques
+* Rocketry
+* Guidance, Navigation, and Control (GNC)
+* Embedded Systems
+* Radar, Stealth Technologies, Electronic Warfare
+* Sonics/Acoustics
+* Genetic Engineering
+* Chemistry
+
 Who am I?
 ======
 Once again, my name is Ethan Hoben, and I am a thinker and a creator at heart. Due to these qualities of mine, I knew very early on in my life that I wanted to be involved in designing and buidling things, and I very quickly settled on engineering as my best path to acheive my goals. Later on, I was able to find a passion for electronics, which narrowed my focus to electrical engineering, which is what I pursued and continue to pursue at university. However, I am a very curious and big-picture thinker, so while my main interests are in electronics, I have also taken an explicit interest in computer science, chemical engineering, mechanical and aerospace engineering, computer engineering, etc. Basically, if a topic can be of use to me in some way, I tend to pursue it.
