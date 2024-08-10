@@ -15,6 +15,7 @@ I am a member of various organizations, most of which are geared towards STEM ou
 * SNEK Aerospace, Chief Engineer
 * [National Space Club](https://www.spaceclubhsv.org/), Northrop Grumman Representative and Volunteer
 * [NACS](https://www.nacslab.com/), Student Collaborator and Former Senior Design Team Member
+* [HARA](https://hararocketry.org/hara/), Member
 
 ## Professional Societies
 I am a member of several professional soceities, all of which are engineering focused. The following is a list of all professional societies of  which I am a part.
