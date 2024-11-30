@@ -6,7 +6,10 @@ collection: portfolio
 
 The high power laser (HPL) was the first major project I undertook as a hobby, and it required me to learn skills such as power supply design, optics, 3D modeling, mechatronics, software, and above all else, saftey.
 
-I undertook this project after my first summer intership enabled me to aquire more exotic components (AKA I had disposable income for the first time). I had been a big fan of creators such as [Styropyro](https://www.youtube.com/@styropyro), and once I had the means I set to work searching on ebay for listings for the same or similar high power laser arrays as he used. Eventually, I found a international vendor and was able to negotiate a discount, on account of me being a student, and the promise that I would purchase more laser arrays, which I did. 
+I undertook this project after my first summer intership enabled me to aquire more exotic components (AKA I had disposable income for the first time). I had been a big fan of creators such as [Styropyro](https://www.youtube.com/@styropyro), and once I had the means I set to work searching on ebay for listings for the same or similar high power laser arrays as he used. Eventually, I found a international vendor and was able to negotiate a discount, on account of me being a student, and the promise that I would purchase more laser arrays, which I did.
+<p align="center">
+    <img width="450" height="342" src='/images/laser_array.jpg'>
+</p>
 
 Once I got the laser arrays, my first problem was reverse engineering the wiring diagram, as the array did not come with an adequate schematic. I was able to use a multimeter on it's continuity setting to get the schematic, and I was able to move onto my next problem: power.
 
