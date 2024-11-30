@@ -11,6 +11,6 @@ I undertook this project after my first summer intership enabled me to aquire mo
 Once I got the laser arrays, my first problem was reverse engineering the wiring diagram, as the array did not come with an adequate schematic. I was able to use a multimeter on it's continuity setting to get the schematic, and I was able to move onto my next problem: power.
 
 You see, lasers, while thought of by most to be some futuristic technology, are in fact, rather simple. In this case specifically, since the laser was 450nm (blue) laser diode, it behaved almost exactly as a normal LED (Light Emitting Diode) would. This, of course, meant that the laser was a current mode device, and needed a power source with precise current control, as a small variation in the voltage supply would produce drastic changes in output power, and potentailly destroy the laser diode. The following image will help me explain this:
-![Diode IV Curve](.\images\diode-iv-curve.jpg "Diode IV Curve")
+![Diode IV Curve](./images/diode-iv-curve.jpg "Diode IV Curve")
 
 
