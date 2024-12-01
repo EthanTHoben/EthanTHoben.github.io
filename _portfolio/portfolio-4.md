@@ -1,6 +1,6 @@
 ---
-title: "Flying Wing Drone"
-excerpt: "Designed and currently building a 3D printed flying wing drone that uses a 65mm EDF pusher for thrust<br/><img src='/images/500x300.png'>"
+title: "Magnetron Sputterer"
+excerpt: "Designed and built a Magnetron Sputterer from scrap microwave parts for the purpose of thin film deposition and crude semiconductor manufacturing<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
