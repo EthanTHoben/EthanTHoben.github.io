@@ -1,3 +1,9 @@
+---
+title: "High Power Laser Turret"
+excerpt: "Designed, built, and tested a 115W 450nm Laser array turret platform with automated tracking and engagement using computer vision and automatic focal length adjustment<br/><img src='/images/Laser resized.jpg'>"
+collection: portfolio
+---
+
 The high power laser (HPL) was the first major project I undertook as a hobby, and it required me to learn skills such as power supply design, optics, 3D modeling, mechatronics, software, and above all else, safety.
 
 I undertook this project after my first summer internship enabled me to acquire more exotic components (AKA I had disposable income for the first time). I had been a big fan of creators such as [Styropyro](https://www.youtube.com/@styropyro), and once I had the means I set to work searching on eBay for listings for the same or similar high power laser arrays as he used. Eventually, I found a international vendor and was able to negotiate a discount, on account of me being a student, and the promise that I would purchase more laser arrays, which I did.
@@ -22,4 +28,9 @@ Luckily, we are not the first people to ever run into the issue of controlling t
 Looking at this figure, I need to introduce some terminology. First, the plots are of an arbitrary signal, and the x-axis is time in this case, with the y axis being magnitude of the signal, but we can just call it Volts for now. A very important concept to signals is that of period and frequency. These quantities are inversely proportional to one another, that is, period is equal to 1/frequency, and vice versa. period is how long something takes to repeat. think of a steady drumbeat, where a drummer strikes the drum 1 time a second. The period of the drum strikes would be 1 second long, that is, it takes 1 second of time between each drum strike. Signals that have a defined period are known as periodic. Using the same drum example, and the fact we know the 1/period is equal to the frequency, we can say the drumbeat has a frequency of 1 Hz, where Hz is Hertz, the unit of frequency, also known as 1/seconds. now that we have established some basic signal concepts, we can begin to breakdown the idea of PWM.
 
 PWM is when a periodic signal’s on time is modified, such that the signal spends more or less time on in a given period. Looking at the figure, a higher on time, also known as a duty cycle, results in the signal being in the on state for a large percentage of the period. that means if a duty cycle is 75%, then the signal spends 3/4 of its period in the on state. using this digital technique, we can effectively turn our laser on and off fast, and we can leave it on longer or shorter, thereby increasing or decreasing our total power output.
+
+
+
+
+
 
