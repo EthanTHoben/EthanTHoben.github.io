@@ -16,15 +16,25 @@ Education
 
 Work experience
 ======
+* TEMPEST Engineer, 2025-Present
+  * Northrop Grumman Defense Systems
+  * Support multiple integrated product teams with TEMPEST testing and verification
 * Associate Software Engineer, 2023-Present
   * Northrop Grumman Space Systems
-  * Work in an agile environment where I deal primarily with C++ and Ada. Work with subject matter experts to develop the best product in line with customer expectations. Work with program leadership to produce and communicate metrics to customers, work with SME to track requirements and brief leadership.
-* SPARK Principal Investigator, 2023-Present
+  * Work in an agile environment where I deal primarily with C++ and Ada. Work alongside subject matter experts to develop the best product in line with customer expectations. 
+  * Work with program leadership to produce and communicate metrics to customers
+  * Work with SME to track requirements and brief leadership.
+  * Received 3 awards recognizing key contributions.
+* SPARK Principal Investigator, 2023-2024
   * Northrop Grumman Space Systems
-  * Work as lead of my R&D group, investigating advanced fabrication methods for Antennas, RF lenses, and waveguides. The group objective is to provide Northrop Grumman with the capability to produce rapid prototypes of antennas inexpensively and quickly to support business objectives.
+  * Proposed innovative manufacturing concept and was awarded $15000 in seed funding to investigate feasibility.
+  * Lead the R&D group, investigating advanced fabrication methods for Antennas, RF lenses, and waveguides. 
+  * Techniques are under review for use in future capture and proposal efforts
 * Software/Systems Engineering Intern, 2021-2023
   * Northrop Grumman Defense Systems
-  * Worked in an agile environment dealing with test automation and hardware integration testing. Test automation tools included Sensetalk and Python.
+  * Worked in an agile environment dealing with test automation and hardware integration testing. 
+  * Demonstrated test automation solutions to leadership and customers.
+  * Test automation tools included Sensetalk and Python.
   
 Skills
 ======
