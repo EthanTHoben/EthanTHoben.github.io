@@ -1,6 +1,6 @@
 ---
 title: "3D Printed Stealth Drone"
-excerpt: "I am desiging and testing a custom 3D printed drone that I have designed with low observability in mind. For this particular portfolio item, I will not show images until it is complete as to keep particular fabrication and assembly techniques to myself. The drone makes use of multiple well known and some sparsely known stealth techniques, and will undergoe testing at various radar frequencies."
+excerpt: "I am desiging and testing a custom 3D printed drone that I have designed with low observability in mind. For this particular portfolio item, I will not show images until it is complete as to keep particular fabrication and assembly techniques to myself. The drone makes use of multiple well known and some sparsely known stealth techniques, and will undergo testing at various radar frequencies."
 collection: portfolio
 ---
 
