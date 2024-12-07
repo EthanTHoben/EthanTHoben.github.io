@@ -12,6 +12,9 @@ main:
   - title: "Organizations and Societies"
     url: /org/
 
+  - title: "Service"
+    url: /service/
+
   - title: "Honors and Awards"
     url: /honors/
 
