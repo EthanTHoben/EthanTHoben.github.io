@@ -39,14 +39,3 @@ Engineering Leadership
 ======
 * SNEK Aerospace Chief Engineer: Lead the SNEK Aerospace team in designing, building, and testing custom advanced hobby rockets. The team is made up of 8 individuals and focuses on advanced avionics, thrust vector control, and high speeds.
 * Euclid Aerospace Chief Engineer: Lead the Euclid Aerospace team in designing, building, and testing custom advanced rocket systems. The team is made up of 7 individuals and focuses on modular rocket design, advanced GNC (Guidance, Navigation, and Control), and custom propellants.
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-
-Licenses and Certifications
-======
-* L1 High Power Rocektry Certification, Tripoli Rocketry Association
-* Technician Class, Federal Communications Commission
