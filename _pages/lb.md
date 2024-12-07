@@ -9,10 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Welcome to Ethan's personal library! I am an amateur librarian and rare books collector, with an emphasis on technical content from STEM fields. As my background is in electrical engineering, I started out collecting useful texts on a variety of EE topics, and eventually branched out into collection any text I think will be an interesting topic to learn about.
+Welcome to Ethan's personal library! I am an amateur librarian and rare books collector, with an emphasis on technical content from STEM fields. As my background is in electrical engineering, I started out collecting useful texts on a variety of EE topics, and eventually branched out into collecting any text I think will be an interesting topic to learn about.
+
+My life goal for my library is to have the largest technical library on earth, at least the largest one owned by a single private individual. I have yet to find anyone claiming that title publicly, but I am sure somone is ahead of me at the moment, but not for long!
+
+I only list the technical content of my library, and that will not change. While I very much enjoy my history and literature collections, I know the state of the world we live in, and am not naive enough to think the public understands the concept of intellectual curiosity.
 
 ## Library Stats
-The amount of books that fall under the technical content umbrella are 277. The total size of my personal collection, which includes technical, historical, and literature is 407. 73.96% of the collection are hardcovers, 26.04% of the collection are paperbacks. The median book age is 40 years, the average book age is 42 years, the oldest book is from 1879, and the newest book is from 2024.
+The amount of books that fall under the technical content umbrella are 459. The total size of my personal collection, which includes technical, historical, and literature is 604. 70.86% of the collection are hardcovers, 29.14% of the collection are paperbacks. The median book age is 44 years, the average book age is 45 years, the oldest book is from 1879, and the newest book is from 2024.
 
 ## Collections
 Within my library, I have various subsets of books that make up collections. My list of ongoing collections and completion percentage is listed below:
