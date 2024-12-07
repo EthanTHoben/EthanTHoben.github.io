@@ -7,6 +7,5 @@ redirect_from:
   - /resume
 ---
 
-## Licenses and Certifications
 * L1 High Power Rocektry Certification, Tripoli Rocketry Association
 * Technician Class, Federal Communications Commission

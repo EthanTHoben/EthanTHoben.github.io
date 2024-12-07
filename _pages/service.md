@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Service
 * Alabama STEAMfest Northrop Grumman Board Member and Volunteer Coordinator, 2023-Present
   * Organized 140+ Northrop Grumman Volunteers to run 10 science and engineering activities for families in the north Alabama area. 
   * Sit on the Alabama STEAMfest planning commitee as the Northrop Grumman Representive and as the volunteer coordinator, engaging interested community volunteers and connecting them with various exhibits to assist during the festival, managed 150+ college students and community volunteers for the 2023 and 2024 festivals
