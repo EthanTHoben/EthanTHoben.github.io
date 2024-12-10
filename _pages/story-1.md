@@ -59,3 +59,10 @@ Upon the completion of his education, Dr. Slater moved to the United States and 
 <p align="center">
     <img width="450" height="342" src='/images/steward-observatory.jpg'>
 </p>
+Photo of the Steward Observatory, named for Mrs. Lavinia Steward for her donation of $60,000 for a 36in diameter newtonian telescope in 1916.
+
+After 1 year of working at the observatory, Dr. Slater joined the growing [Optical Sciences Center](https://www.optics.arizona.edu/) at the University of Arizona as a Professor of Optical Sciences. Dr. Slater served as the assitant director from 1968 to 1973, and the associate director of the Optical Sciences Center from 1973 to 1975. If we recall the inscription from Charlie Blenman, Dr. Slater support the Pioneer Jupiter team during his time as the associate director of the OSC.
+
+<p align="center">
+    <img width="450" height="342" src='/images/OSC.jpg'>
+</p>
