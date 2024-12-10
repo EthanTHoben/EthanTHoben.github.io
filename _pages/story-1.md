@@ -85,3 +85,10 @@ The below images are from appendix 1 in the Pioneer Odyssey, ad describe the ins
     <img width="450" height="342" src='/images/I2.jpg'>
 </p>
 
+For those who are not aware, the Pioneer 10, AKA the Pioneer Jupiter was a NASA mission that was the first ever mission to go to the planet Jupiter. the probe launched in 1972 and carried multiple scientific instruments to gather data about our solar system.
+
+<p align="center">
+    <img width="450" height="342" src='/images/Pioneer_10_on_its_kickmotor.jpg'>
+</p>
+Photo of the Pioneer 10 on just prior to launch in 1972
+
