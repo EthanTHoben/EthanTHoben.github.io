@@ -42,6 +42,7 @@ That being said, I have quite a few interesting stories for some of the books an
 * [The Story of Michael G. Rinaldi](https://ethanthoben.github.io//story-4/)
 * [The Story of James N. Walbert and Friends](https://ethanthoben.github.io//story-5/)
 * [The Mystery of the Ghost Book](https://ethanthoben.github.io//story-6/)
+
 Additionally, some of my books have unique origins, from the private technical libraries of companies to universities far and wide and those are listed below:
 * [Jet Propulsion and Princeton](https://ethanthoben.github.io//story-7/)
 * [Transonic Flow and Boeing](https://ethanthoben.github.io//story-8/)
