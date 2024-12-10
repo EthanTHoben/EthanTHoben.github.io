@@ -43,3 +43,6 @@ The 3 postcards. The large image is of the Apollo 17 mission's Saturn 5 rocket, 
 </p>
 Phil's postcard to his daughter, Elizabeth. He mentions that he met up with Elizabeths uncle and aunt from the british embassy (Phil is british by the way) and that they are all sitting on the grass 3.5 miles away from the launch pad 2 hours from launch in December, 1972.
 
+After finding these, I knew I had to look into who Phil was, and why this was in my hands instead of a frame somewhere. Luckily, Phil was rather easy to find, as he was a distinguished faculty member and researcher at the University of Arizona in the Optical Sciences department. Sadly, the answer to why the books where in my hands was that Dr. Phillip N. Slater passed away on the evening of February 4th, 2022, at the age of 89.
+
+The rest of this entry will be me recounting my research into Dr. Slater's career, reseach, life, and legacy.
