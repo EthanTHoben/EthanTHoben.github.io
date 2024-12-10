@@ -32,3 +32,13 @@ Charlie Blenman's Inscription. Phil was the associate director of the Optical Sc
 </p>
 William Swindell's Inscription. William worked at the OSC with Phil, and they were likely colleagues.
 
+We will get back to Phil's career and accomplishments, of which their are many. However, a very interesting surprise was waiting in the cover of the paperback copt of "...for the benefit of all mankind". When I opened the book to get catalog details, some papers fell out. This is not unusual for my, I find notes, old homework, etc. in books all the time, comes with the used book territory. However, I have never found sonething like this. What fell out of the book was 3 postcards from the Apollo 17 launch in 1972. Furthermore, one of the postcards was not just memorabilia, but was a handwritten card from Phil to his daughter, Elizabeth. Here are some pictures:
+<p align="center">
+    <img width="450" height="342" src='/images/treasure.jpg'>
+</p>
+The 3 postcards. The large image is of the Apollo 17 mission's Saturn 5 rocket, the small print card is a list of all Apollo 17 mission events, and the handwritten card will be featured up close next.
+
+<p align="center">
+    <img width="450" height="342" src='/images/letter.jpg'>
+</p>
+Phil's postcard to his daughter, Elizabeth. He mentions that he met up with Elizabeths uncle and aunt from the british embassy (Phil is british by the way) and that they are all sitting on the grass 3.5 miles away from the launch pad 2 hours from launch in December, 1972.
