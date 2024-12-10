@@ -46,3 +46,12 @@ Phil's postcard to his daughter, Elizabeth. He mentions that he met up with Eliz
 After finding these, I knew I had to look into who Phil was, and why this was in my hands instead of a frame somewhere. Luckily, Phil was rather easy to find, as he was a distinguished faculty member and researcher at the University of Arizona in the Optical Sciences department. Sadly, the answer to why the books where in my hands was that Dr. Phillip N. Slater passed away on the evening of February 4th, 2022, at the age of 89.
 
 The rest of this entry will be me recounting my research into Dr. Slater's career, reseach, life, and legacy.
+
+Dr. Phillip N. Slater was born in 1932 in the United Kingdom. He attended Imperial College and received his B.Sc degree in 1955, then attended the Imperial College of Science of Technology in London.
+
+<p align="center">
+    <img width="450" height="342" src='/images/imperial_college.jpg'>
+</p>
+Photo of the [Imperial College of Science and Technology](https://en.wikipedia.org/wiki/Imperial_College_London), established in 1907.
+
+
