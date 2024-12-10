@@ -51,8 +51,7 @@ Dr. Phillip N. Slater was born in 1932 in the United Kingdom. He attended Imperi
 
 <p align="center">
     <img width="450" height="342" src='/images/imperial_college.jpg'>
-    Photo of the [Imperial College of Science and Technology](https://en.wikipedia.org/wiki/Imperial_College_London), established in 1907.
 </p>
 Photo of the [Imperial College of Science and Technology](https://en.wikipedia.org/wiki/Imperial_College_London), established in 1907.
 
-Upon the 
+Upon the completion of his education, Dr. Slater moved to the United States and began work as a research physicist at the IIT Research Institute in Chicago. He worked as a manager at IITRI from 1962 to 1966, and his work was focused on optics research.
