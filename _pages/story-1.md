@@ -66,3 +66,22 @@ After 1 year of working at the observatory, Dr. Slater joined the growing [Optic
 <p align="center">
     <img width="450" height="342" src='/images/OSC.jpg'>
 </p>
+Photo of the Meinel Optical Sciences Building
+
+Regarding Dr. Slater's support of the Pioneer Jupiter Team, I looked through the book and found that NASA did us the solid of listing the program contributors and researchers in the back of the book, so I was able to find exactly what Dr. Slater and his collegues worked on. The text credits the University of Arizona research group with creating the "Imaging Photopolarimetry Experiment", the Principal Investigator of which was Dr. Tom Gehrels, and his team included Dr. William Swindell and Charles Blenman, the inscribers of Dr. Slaters book.
+
+<p align="center">
+    <img width="450" height="342" src='/images/IPE.jpg'>
+</p>
+Photo of the Imaging Photopolarimetry Experiment instrument. "The instrument observed faint flows in interplanetary space of Zodiacal Light, the Gegenshein, and the integrated starlight. At Jupiter this instrument was used to look at the reflective properties of the Jovian atmosphere and of satellites to build up spin-scan images of these bodies" The Pioneer Odyssey, fig. 4-14.
+
+The below images are from appendix 1 in the Pioneer Odyssey, ad describe the instrument in detail:
+
+<p align="center">
+    <img width="450" height="342" src='/images/I1.jpg'>
+</p>
+
+<p align="center">
+    <img width="450" height="342" src='/images/I2.jpg'>
+</p>
+
