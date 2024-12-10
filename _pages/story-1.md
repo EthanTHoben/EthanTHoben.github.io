@@ -47,11 +47,15 @@ After finding these, I knew I had to look into who Phil was, and why this was in
 
 The rest of this entry will be me recounting my research into Dr. Slater's career, reseach, life, and legacy.
 
-Dr. Phillip N. Slater was born in 1932 in the United Kingdom. He attended Imperial College and received his B.Sc degree in 1955, then attended the Imperial College of Science of Technology in London.
+Dr. Phillip N. Slater was born in 1932 in the United Kingdom. He attended Imperial College and received his B.Sc degree in 1955, then attended the Imperial College of Science of Technology in London for applied optics, completing his Ph.D in 1958
 
 <p align="center">
     <img width="450" height="342" src='/images/imperial_college.jpg'>
 </p>
 Photo of the [Imperial College of Science and Technology](https://en.wikipedia.org/wiki/Imperial_College_London), established in 1907.
 
-Upon the completion of his education, Dr. Slater moved to the United States and began work as a research physicist at the IIT Research Institute in Chicago. He worked as a manager at IITRI from 1962 to 1966, and his work was focused on optics research.
+Upon the completion of his education, Dr. Slater moved to the United States and began work as a research physicist at the IIT Research Institute in Chicago. He worked as a manager at IITRI from 1962 to 1966, and his work was focused on optics research. During this time, Dr. Slater became a expert in aerial and space photography, which led to his recruitment to the University of Arizona in 1966. Upon his arrival at the university, he began work as a research professor at the [Steward Observatory](https://en.wikipedia.org/wiki/Steward_Observatory)
+
+<p align="center">
+    <img width="450" height="342" src='/images/steward-observatory.jpg'>
+</p>
