@@ -99,6 +99,31 @@ The Pioneer 10 spacecraft holds the additional distinction of being the first ma
 </p>
 Photo of the Pioneer Plaque, which has various information about humanity
 
+<p align="center">
+    <img width="450" height="342" src='/images/Pioneer10_Image_jupiter.jpg'>
+</p>
+Photo of Jupiter taken with Pioneer 10 instruments, the first time humanity had ever seen the gas giant in such detail
 
+The Principal investigator of the UA team was Tom Gehrels, who has made some monumental contributions to the sciences in his own right, learn more about him [here](https://en.wikipedia.org/wiki/Tom_Gehrels).
 
+So as we can see, Dr. Slater and his colleagues were titans of innovation, discovery, and exploration. Dr. Slater's research interests included atmospheric effects on spectral signatures and the design and calibration of multispectral linear-array systems for remote sensing of the earths surface from space. In his career, he published ~90 research works, including his textbook, "Remote Sensing: Optics and Optical Systems", published in 1980.
 
+<p align="center">
+    <img width="450" height="342" src='/images/remote_sens.jpg'>
+</p>
+
+the following are some words from people who knew and worked with Phil:
+
+“I knew Phil since 1984 and was proud to be among the diverse group of students and visiting scientists that he managed.  Under his leadership we worked well together to advance government-sponsored work with calibration of space-based and aircraft remote sensing instruments.  We spent many days (and nights) at interesting field sites such as White Sands missile range where the students and visitors camped in tents. I always remember our field work as interesting and fun, and Phil always did more than his share of the field work carrying back-pack mounted instruments!  I’ll always remember him as a great example, and my advisor, mentor and friend.,” -Dr. Stu Biggar, Research Professor of Optical Sciences and a close colleague of Phil’s at OSC
+
+“My remembrance of Phil was establishing a short course in optical sciences before they were in style.  It was a 2-week event for industrial affiliates, as well as anyone else, to take 9 courses at two topics per day in 4-hour lectures.  The social gathering and parties afterwards at night provided entertainment, but also possibilities to establish mutual research interests with industry.  Phil was a pioneer in that effort along with his wife Joan.” -Eustace Dereniak, Emeritus Professor of Optical Sciences
+
+“In his humble, but impactful way, Phil was an early and very important OSC faculty member. As associate director for several years and head of an excellent, well-funded remote sensing program, he did much to strengthen our program and reputation. Aside from work, one of his favorite activities was running, and he especially enjoyed talking some of us into joining him for a few miles at lunch time, all months of the year, including July! Some of my fondest memories are of the yearly OSC Saguaro East race that Phil was instrumental in starting. Not only did he participate in the race, but he and Joan also hosted an amazing breakfast for everyone at their house afterwards.” -Jim Wyant, Founding Dean and Emeritus Professor of Optical Sciences
+
+“In memory of Phil I went to Saguaro National Park East today – I’m no longer able to run the 8.5 mile loop, so instead I did a 8.5-mile hike up and down Tanque Verde Ridge Trail. Perfect way to think about it all … Brought all kinds of wonderful memories from the old days…” -Pierre Meystre, Regents' Professor Emeritus of Optical Sciences
+
+As we can see, Dr. Phillip N. Slater was a pillar of his community, a devoted family man, and a scientific titan. Phil and his wife Joan where also sponsors of the [Phillip N. and Joan A. Slater Scholarship each year](https://www.optics.arizona.edu/philip-n-and-joan-slater-endowed-graduate-student-scholarship-optical-sciences).
+
+And that is as much of the story of Dr. Phillip N. Slater that I could find publicly available. I hope you got something out of the story, or at a minimum, learned something interesting!
+
+-Ethan
