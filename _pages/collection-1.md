@@ -1,6 +1,6 @@
 ---
 title: "The Story of Phillip N. Slater"
-sitemape: false
-permalinks: /collection-1.html
+layout: archive
+permalinks: /collection-1/
 ---
 TESTESTESTEST

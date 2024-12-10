@@ -16,7 +16,7 @@ My life goal for my library is to have the largest technical library on earth, a
 I only list the technical content of my library, and that will not change. While I very much enjoy my history and literature collections, I know the state of the world we live in, and am not naive enough to think the public understands the concept of intellectual curiosity.
 
 ## TEST
-click [here](https://ethanthoben.github.io//archive-layout-with-content/)
+click [here](https://ethanthoben.github.io//collection-1/)
 
 ## Library Stats
 The amount of books that fall under the technical content umbrella are 459. The total size of my personal collection, which includes technical, historical, and literature is 604. 70.86% of the collection are hardcovers, 29.14% of the collection are paperbacks. The median book age is 44 years, the average book age is 45 years, the oldest book is from 1879, and the newest book is from 2024.
