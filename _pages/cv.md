@@ -45,6 +45,11 @@ Skills
 * Technical Skills: Circuit design/development, 3D Fabrication, Chemistry, Soldering, Circuit Troubleshooting
 * Soft Skills: Good Communicator, Team Player, Leader
 
+Licenses and Certifications
+======
+* L1 High Power Rocektry Certification, Tripoli Rocketry Association
+* Technician Class, Federal Communications Commission
+
 Engineering Leadership
 ======
 * SNEK Aerospace Chief Engineer: Lead the SNEK Aerospace team in designing, building, and testing custom advanced hobby rockets. The team is made up of 8 individuals and focuses on advanced avionics, thrust vector control, and high speeds.
