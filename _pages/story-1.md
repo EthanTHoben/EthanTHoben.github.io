@@ -124,6 +124,6 @@ the following are some words from people who knew and worked with Phil:
 
 As we can see, Dr. Phillip N. Slater was a pillar of his community, a devoted family man, and a scientific titan. Phil and his wife Joan where also sponsors of the [Phillip N. and Joan A. Slater Scholarship each year](https://www.optics.arizona.edu/philip-n-and-joan-slater-endowed-graduate-student-scholarship-optical-sciences).
 
-And that is as much of the story of Dr. Phillip N. Slater that I could find publicly available. I hope you got something out of the story, or at a minimum, learned something interesting!
+And that is as much of the story of Dr. Phillip N. Slater that I could find publicly available. Most of my info come from [here](https://www.optics.arizona.edu/news-events/news/quicknews/memoriam-philip-n-slater).I hope you got something out of the story, or at a minimum, learned something interesting!
 
 -Ethan
