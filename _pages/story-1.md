@@ -10,4 +10,13 @@ My connection to Phillip Slater starts as most of my stories do, with me looking
 
 I browsed for a bit, and found a listing for vintage NASA books, 4 of them, 3 of which where NASA-SP publications. The price was fair, so I purchased them. Additionally, the description said these books were signed, which is always a treat and adds some history to the books. A week later, the books arrived at my door, and I unboxed them. However, I did not immediatly look inside or catalog them, as I had to leave for conference in North Carolina the next morning, so I had to back and get to bed.
 
-A couple weeks go by, and I am busy as always, and accidently place some papers on top of the books on my desk, which hid them from me for a further week or so, until I got the chance to clean up my desk. When I finally looked, 2 books in particular caught my eye. these books were NASA SP-349, "Pioneer Odyssey"
+A couple weeks go by, and I am busy as always, and accidently place some papers on top of the books on my desk, which hid them from me for a further week or so, until I got the chance to clean up my desk. When I finally looked, 2 books in particular caught my eye. These books were NASA SP-349, "Pioneer Odyssey", and a small paperback titled "...for the benefit of all mankind". Pictures of both are below:
+<p align="center">
+    <img width="450" height="342" src='/images/Pioneer_Odyssey.jpg'>
+</p>
+Pioneer Odyssey, note the original NASA logo in the bottom left!
+
+<p align="center">
+    <img width="450" height="342" src='/images/ftboam.jpg'>
+</p>
+...for the benefit of all mankind, this one held some surprises.
