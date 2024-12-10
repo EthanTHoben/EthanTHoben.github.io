@@ -42,3 +42,4 @@ The 3 postcards. The large image is of the Apollo 17 mission's Saturn 5 rocket, 
     <img width="450" height="342" src='/images/letter.jpg'>
 </p>
 Phil's postcard to his daughter, Elizabeth. He mentions that he met up with Elizabeths uncle and aunt from the british embassy (Phil is british by the way) and that they are all sitting on the grass 3.5 miles away from the launch pad 2 hours from launch in December, 1972.
+
