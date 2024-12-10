@@ -90,5 +90,15 @@ For those who are not aware, the Pioneer 10, AKA the Pioneer Jupiter was a NASA 
 <p align="center">
     <img width="450" height="342" src='/images/Pioneer_10_on_its_kickmotor.jpg'>
 </p>
-Photo of the Pioneer 10 on just prior to launch in 1972
+Photo of the [Pioneer 10](https://en.wikipedia.org/wiki/Pioneer_10) on just prior to launch in 1972
+
+The Pioneer 10 spacecraft holds the additional distinction of being the first manmade object to leave the proximity of the major planets of the solar system, and did so in 1983. The last telemetry we recieved from the Pioneer 10 was in 2003, when it was 7.5 billion miles from Earth. We have not heard from it since. Additionally, Pioneer 10 is famous for its plaque, as advocated for by Carl Sagan. This plaque symbolizes humanity reaching out into space hoping to find intelligent life.
+
+<p align="center">
+    <img width="450" height="342" src='/images/Pioneer10-plaque.jpg'>
+</p>
+Photo of the Pioneer Plaque, which has various information about humanity
+
+
+
 
