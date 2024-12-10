@@ -51,7 +51,8 @@ Dr. Phillip N. Slater was born in 1932 in the United Kingdom. He attended Imperi
 
 <p align="center">
     <img width="450" height="342" src='/images/imperial_college.jpg'>
+    Photo of the [Imperial College of Science and Technology](https://en.wikipedia.org/wiki/Imperial_College_London), established in 1907.
 </p>
 Photo of the [Imperial College of Science and Technology](https://en.wikipedia.org/wiki/Imperial_College_London), established in 1907.
 
-
+Upon the 
