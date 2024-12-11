@@ -25,7 +25,7 @@ I decided to research Glenn more, and unfortunately found his [obituary](https:/
 Glenn A. Shelby was born in 1963 in Paducah, KY, and graduated from Ballard County Kentucky High School in 1981. He then went on the attend Murray State University with a Bachelors Degree in Physics Engineering in 1986. He then went on to attend the University of Alabama in Huntsville, earning his Masters Degree in Electrical Engineering.
 
 <p align="center">
-    <img width="450" height="342" src='/images/Murray_State.jpg'>
+    <img width="450" height="342" src='/images/MS.jpg'>
 </p>
 Photo of Murray State University
 
