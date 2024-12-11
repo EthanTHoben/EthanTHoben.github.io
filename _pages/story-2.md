@@ -49,3 +49,15 @@ Glenn worked at the Nichols Research Corporation for 14 years, and he primarily 
 Photo of a Patriot Battery
 
 Another intersting coincidence is that during my college internship at UAH, I worked on a program called [IBCS](https://www.northropgrumman.com/what-we-do/land/integrated-battle-command-system-ibcs), aka the Integrated Battle Command system, and once again crossed paths with Glenn's work, as I had some dealings with Patriot Systems.
+
+Eventually, Glenn left Nichols and joined NASA, where he continued his work as a electrical engineer, eventually becoming the Lead Engineer and EMI Lab Manager for the Marshall Space Flight Center's EMI Test Facility.
+
+After I found the book and the obituary, I wanted to contact the familt to let them know the book was in good hands, as I could tell that Glenn cared for his books, as the condition was flawless despite him aquiring the book in 1996.
+
+The issue, however, is that I have no social media, no facebook, no instagram, the only thing I have is linkedin basically. Luckily, I have my personal social media research assitant, my Mom (Jokes, but she was helpful in this case). She was able to contact Glenn's wife, Maria, and get into contact. It is because of Maria's reccomendation that I have my own personal library stamp, a gift from my Mom.
+
+TODO: More info on Glenns career, specifically programs he supported over his career at nasa
+
+TODO: intervie Maria Shelby for more details
+
+TODO: add Glenns family details, service, hobbies, etc to flush out article
