@@ -19,8 +19,8 @@ I was able to get my hands on it in December 2024, and I immediatly cataloged an
 
 <p align="center">
     <img width="450" height="342" src='/images/OPP.jpg'>
-    Photo of the inside cover where Otakar P. Prachar's personal stamp was placed
 </p>
+Photo of the inside cover where Otakar P. Prachar's personal stamp was placed
 
 This stamp was from one Otakar P. Prachar, and the following is a compilation of my research on his life, career, and ingeunity.
 
