@@ -24,6 +24,34 @@ Photo of the inside cover where Otakar P. Prachar's personal stamp was placed
 
 This stamp was from one Otakar P. Prachar, and the following is a compilation of my research on his life, career, and ingeunity.
 
+Otakar, who went by Prach, was born in 1912 to a Czech immigrant family in Minneapolis, Minnesota. He grew up in Willow River on a farm, where his father was a beekeeper. The farm was plentiful with wild blueberries, and Otokar's sister credits the bluberries with his and her longevity.
+
 <p align="center">
-    <img width="450" height="342" src='/images/Guidance.jpg'>
+    <img width="450" height="342" src='/images/Willow_River,_Minnesota.jpg'>
 </p>
+Photo of Willow River, Minnesota. It is a small town and as of 2010 has a population of 415 people.
+
+Early on, Prach showed that he had a knack for creativity and creation, becoming a skilled woodworker as a child. At the age of 16, he built a fine violin modeled on classical designs. He went on to attend the University of Minnesota, where he graduated with a bachelor's in engineering and a master's in physics. In 1941, he would marry Lydia Emma Erickson, a fellow graduate of the university.
+
+<p align="center">
+    <img width="450" height="342" src='/images/UM.jpg'>
+</p>
+Photo of the University of Minnesota, where Prach and his wife Lydia met
+
+Upon graduation, Prach began his career with Allis-Chalmers in Milwaukee, an american industrial giant who manufactured industrial equipment across many industries. Allis-Chalmers was sold off due to finacial struggles in the 1990s
+
+<p align="center">
+    <img width="450" height="342" src='/images/Allis_WI.jpg'>
+</p>
+Photo of a postcard featuring the Allis-Chalmers factory in Milwaukee, WI
+
+After a brief stint at Allis-Chalmers, Prach moved to Indianapolis in 1940 where he worked for Allison, a division of General Motors. During World War 2, Prach was involved in modifying the Allison V-1710 engine, which was used extensivly in the famed P-51 Mustang and several other fighter planes in service at the time. Prach would go on to patent several engine designs related to the V-1710, and worked on many post-war turbo-jet and other aeronautical engine designs.
+
+<p align="center">
+    <img width="450" height="342" src='/images/V1710.jpg'>
+    <img width="450" height="342" src='/images/P51.jpg'>
+</p>
+Photo of the Allison V-1710 and the P-51 Mustang
+
+
+
