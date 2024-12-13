@@ -20,10 +20,11 @@ Photo of Robert H. Courtney's signature in the cover of the book
 
 Robert was born in Suffolk County, Boston, Massachusetts in February 1920. He spent his youth in Richmond Virginia, where he developed a love for electronics. He was a US Army Air Force Veteran, and he served in North Africa in 1946, at the ripe age of 16! He went on to attend Virginia Tech and earned his bachelor's degree in electrical engineering, and then attended the University of Virginia where he earned a master's degree in mathematics. He then taught electrical engineering at the University of Virginia prior to starting his first job in the computing field with Hastings Instrument Company.
 
-<p float="left">
-  <img src="/images/RHVT.jpg" width="500" />
-  <img src="/images/RHUV.jpg" width="500" /> 
+<p align="center">
+    <img width="450" height="342" src='/images/RHVT.jpg'>
+    <img width="450" height="342" src='/images/RHUV.jpg'>
 </p>
+(Top) Photo of Virginia Tech, (Bottom) Photo of the University of Virginia
 
 Robert joined IBM in 1960, where he would work until he retired 1981. While Robert was at IBM he served as the initial manager of the Intelligence Systems Center in Washington DC. This office made available to the US intelligence community the diversity of skills, talents, and disciplines required of the private sector. He later transferred to IBM's Kingston NY Laboratory to manage the development and introduction of CRT terminals into the commercial marketplace. In 1968 he was directed by IBM to establish an action plan to contain the then-growing concerns of legislative bodies and regulatory agencies for the of EDP on individual privacy.
 
