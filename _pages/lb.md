@@ -39,6 +39,7 @@ That being said, I have quite a few interesting stories for some of the books an
 * [The Story of Phillip N. Slater](https://ethanthoben.github.io//story-1/)
 * [The Story of Glenn A. Shelby](https://ethanthoben.github.io//story-2/)
 * [The Story of Robert H. Courtney](https://ethanthoben.github.io//story-3/)
+* [The Story of Otakar P. Prachar](https://ethanthoben.github.io//story-18/)
 * [The Story of Michael G. Rinaldi](https://ethanthoben.github.io//story-4/)
 * [The Story of James N. Walbert and Friends](https://ethanthoben.github.io//story-5/)
 * [The Mystery of the Ghost Book](https://ethanthoben.github.io//story-6/)
