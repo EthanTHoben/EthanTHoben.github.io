@@ -4,7 +4,7 @@ layout: archive
 permalink: /story-5/
 ---
 <p align="center">
-    <img width="450" height="342" src='/images/Walbert.png'>
+    <img width="450" height="342" src='/images/Walbert.PNG'>
 </p>
 One of my most ambitious collections is that of the Progress in Aeronautics and Astronautics series published by AIAA. This collection goes all the way back to 1960 and is still in progress today. While I one day hope to complete the collection, I have a long way to go. One of the books in the collection, volume 230, is titled "Fundametals of Ground Combat System Ballistic Vulnerability/Lethality" by Paul Dietz, Harry Reed, Terrence Klopcic, and James Walbert.
 
