@@ -17,11 +17,7 @@ My life goal for my library is to have the largest technical library on earth, a
 The amount of books that fall under the technical content umbrella are 459. The total size of my personal collection, which includes technical, historical, and literature is 604. 70.86% of the collection are hardcovers, 29.14% of the collection are paperbacks. The median book age is 44 years, the average book age is 45 years, the oldest book is from 1879, and the newest book is from 2024.
 
 ## Collections
-Within my library, I have various subsets of books that make up collections. My list of ongoing collections and completion percentage is listed below:
-* AIAA Progress in Astronautics and Aeronautics, 255 Volume set, 4.31% complete
-* Dover Books on Engineering, 28 Volume set, 96.42% complete
-* International Series of Monographs in Aeronautics and Astronautics, 19 Volume Set, 21.05% complete
-* Great Books of the Western World, 60 Volume set, 16.67% complete
+Within my library, I have various subsets of books that make up collections. My list of ongoing collections is found [here](https://ethanthoben.github.io//collections/)
 
 ## Contents
 If you would like to view my technical catalog, click [here](https://ethanthoben.github.io//catalog/). The catalog features the titles, year of publication, and the ISBN or library of congress catalog number of for each text.
