@@ -37,6 +37,10 @@ I couldnt find much on the Forrestal Library, but I am waiting on a response fro
 </p>
 Photo of the library checkout card in the rear of the book
 
+I then searched the legible names, and found information on the R. F. Sawyer entry. For more info what I found, see this story. Anyways, I hope you found something interesting about the books origins!
+
+-Ethan
+
 
 
 
