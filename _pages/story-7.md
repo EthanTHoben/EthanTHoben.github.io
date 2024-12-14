@@ -22,8 +22,7 @@ Part of the International Series of Monographs in Aeronautics and Astronautics D
 </p>
 Photo of the publisher note, where a Pergamon Press publisher apologizies for the "quality" and price of this work (considering it is near new condition 60+ years later, a bit exagerated). The Pergamon Press adhered to the highest quality standards of almost and publisher I have seen thus far, and that is why they are one of my favorites. The symbol of the Pergamon Press is the ancient coin of Alexander the Great, as shown in the second image.
 
-So, in addition to this being an original 1st edition Pergamon Press copy, what else is interesting about it? Well, this copy of mine comes from the Princeton University Library, and has a stamp from both the [Edith H. DeLong Memoria](https://findingaids.princeton.edu/catalog/AC128_c00385) and the [Forrestal Library](https://findingaids.princeton.edu/catalog/AC123_c01312). Additionaly, the inside front cover has the name of one John Popovich written. I think I tracked down the right John Popovich, and am waiting on an email response from him.
-
+So, in addition to this being an original 1st edition Pergamon Press copy, what else is interesting about it? Well, this copy of mine comes from the Princeton University Library, and has a stamp from both the [Edith H. DeLong Memoria](https://findingaids.princeton.edu/catalog/AC128_c00385) and the [Forrestal Library](https://findingaids.princeton.edu/catalog/AC123_c01312). Additionaly, the inside front cover has the name of one John Popovich written. I was not able to track down John Popovich, so that line of inquiry is done for now.
 <p align="center">
     <img width="450" height="342" src='/images/princeton.jpg'>
     <img width="450" height="342" src='/images/forrestal.jpg'>
