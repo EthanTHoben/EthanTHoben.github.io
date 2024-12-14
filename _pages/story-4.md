@@ -16,3 +16,6 @@ The book "Cowan & Steel's Manual for the Identification of Medical Bacteria" by 
 </p>
 Photo of Cowan & Steel's Manual for the Identification of Medical Bacteria and Michael Rinaldi's personal library stamp
 
+The following is a compilation of my research into the life, career and work of Michael Rinaldi:
+
+

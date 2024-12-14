@@ -28,7 +28,7 @@ Within my library, I have various subsets of books that make up collections. My 
 ## Contents
 If you would like to view my technical catalog, click [here](https://ethanthoben.github.io//catalog/). The catalog features the titles, year of publication, and the ISBN or library of congress catalog number of for each text.
 
-## Predecessors
+## Shoudlers of Giants
 Half the fun of my collection is that most of my books are used titles, and I spend quite a bit of my time going through my books trying to figure out the history behind the previous owners of the books.
 
 People leave their mark on the world in many ways, whether that be through their families, their work, their relationships, etc. I have always thought the best and lasting way to leave one’s mark on the world was through books, but that doesn’t just mean writing them. I personally think that something as little as a written name, a personal library stamp, or even initials in a book’s pages is the penultimate expression of the human urge to say, “I was here”. 
