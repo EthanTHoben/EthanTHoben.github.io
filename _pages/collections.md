@@ -77,7 +77,7 @@ As mentioned, I have 4 of the titles in this series, they are listed below:
 
 The Bell Telephone Laboratories Series is a series published by the famous Bell Labs in the 1940s and was continued until at least the 1960s. The publications come from fields like elctromagnetics to material science, and where written by titans of modern science, such as William Shockely, father of the transistor. The collection list I have has 30 titles.
 
-I currently have X titles in my collection. The total size 
+I currently have X titles in my collection. They are listed below:
 
 
 
@@ -119,8 +119,3 @@ I currently have 27 of the 28 volumes, I am only missing Optical Aberration Coef
 * Applied Mathematics for Radio and Communication Engineers
 * An Introduction to the Theory of Elasticity for Engineers
 * Selected Papers on Noise and Stochastic Processes
-
-
-
-
-* Dover Books on Engineering, 28 Volume set, 96.42% complete
