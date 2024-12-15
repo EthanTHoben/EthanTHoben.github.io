@@ -59,7 +59,66 @@ I currently have 5 of these titles, which are listed below:
 * Inertial Guidance
 * Aircraft Stability and Control
 
+## Principles of Guided Missile Design
+
+The Principles of Guided Missile Design series is a highly sought after and rare collection. The Series dates back to 1955, when the first volume, Guidance, by Arthur Locke was published. To date, the series has a total of 13 titles. Most of these titles are either very difficult to find, or very expensive to get your hands on, from the hundereds to even thousands of dollars. I currently have 4 of the 13 titles, and am on the lookout for the rest. I have found that 2 of the titles are nowhere to be found online, which will complicate completing the series, but I will figure it out.
+
+<p align="center">
+    <img width="450" height="342" src='/images/POGMD.jpg'>
+</p>
+
+As mentioned, I have 4 of the titles in this series, they are listed below:
+* Guidance
+* Operations Research, Armament, Launching
+* Space Flight Volume 1, Environment and Celestial Mechanics
+* Airborne Radar
+
+## The Bell Telephone Laboratories Series
+
+The Bell Telephone Laboratories Series is a series published by the famous Bell Labs in the 1940s and was continued until at least the 1960s. The publications come from fields like elctromagnetics to material science, and where written by titans of modern science, such as William Shockely, father of the transistor. The collection list I have has 30 titles.
+
+I currently have X titles in my collection. The total size 
+
+
+
+
+
 ## Dover Books on Engineering
+
+The Dover Books on Engineering series is a collection of various texts that covered engineering topics of high interest across multiple fields. While the series has expanded and split off into multiple sub-series in the modern day, my first collection goal is that of the original series set as found in the title Theory of Wing Sections. The original series is comprised of 28 volumes, of which I have most.
+
+<p align="center">
+    <img width="450" height="342" src='/images/dover.jpg'>
+</p>
+
+I currently have 27 of the 28 volumes, I am only missing Optical Aberration Coefficients by Buchdahl. I curently have:
+* Theory of Wing Sections
+* Handbook of Mathematical Functions
+* Fundamentals of Astrodynamics
+* Principles of Aeroelasticity
+* An Introduction to the Use of Generalized Coordinates in Mechanics and Physics
+* The Theory of Equilibrium of Elastic Systems and its Applications
+* Strength of Materials
+* Mechanics
+* Modern Developments in Fluid Dynamics (2 volume set)
+* A Treatise on Gyrostatics and Rotational Motion
+* Photoelasticity
+* Stress Waves in Solids
+* Selected Paperson New Techniques of Energy Conversion
+* Fundamental Formulas of Physics (2 volume set)
+* Theoretical Aerodynamics
+* The Theory of Flight
+* Waterhammer Analysis
+* Applied Hydro-/and Aeromechanics
+* Fundamentals of Hydro-/Aeromechanics
+* Kinematics of Machinery
+* Kinematics of Mechanisms
+* Theory of Ion Flow Dynamics
+* Selected Paperson Human Factorsin the Design and use of Control Systems
+* Engineering Kinematics
+* Applied Mathematics for Radio and Communication Engineers
+* An Introduction to the Theory of Elasticity for Engineers
+* Selected Papers on Noise and Stochastic Processes
 
 
 
