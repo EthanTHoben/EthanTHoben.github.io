@@ -38,10 +38,10 @@ That being said, I have quite a few interesting stories for some of the books an
 * [The Story of James N. Walbert](https://ethanthoben.github.io//story-5/)
 * [The Story of Richard F. Sawyer](https://ethanthoben.github.io//story-19/)
 * [The Story of Louis B. Gratzer](https://ethanthoben.github.io//story-8/)
-* [The Mystery of the Ghost Book](https://ethanthoben.github.io//story-6/)
 
 Additionally, some of my books have unique origins, from the private technical libraries of companies to universities far and wide and those are listed below:
 * [Jet Propulsion and Princeton](https://ethanthoben.github.io//story-7/)
+* [The Mystery of the Ghost Book](https://ethanthoben.github.io//story-6/)
 * [Intuitive IC Op Amps and Interep Inc.](https://ethanthoben.github.io//story-9/)
 * [Digital Signal Processing in VLSI and Pioneer-Standard Electronics Inc.](https://ethanthoben.github.io//story-10/)
 * [Advanced Engineering Mathematics and Vitro Laboratories](https://ethanthoben.github.io//story-11/)
