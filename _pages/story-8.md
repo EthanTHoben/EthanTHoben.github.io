@@ -46,7 +46,7 @@ Now, before I discuss Louis' contributions to winglet design, allow me to discus
 The functional principle that improves the performance of wings with winglets is that the high pressure and low pressure air at the top and the bottom of a wing meet at the wingtip, causing the vortices and drag. Using winglets, the air is kept from meeting, and thus performace is increased. The original idea that led to the winglet was created in 1897 by British aerodynamicist Frederick W. Lancaster. Lancaster patented wing endplates, which served to prevent the vorticies, but failed to help with lift. This weakness was somewhat addressed in the 1970's by NASA engineer Richard Whitcomb, who took inspiration from the way birds curl their wingtips to increase lift. Whitcomb tested his more aerodynamic design in a wind tunnel and found a drag reduction of 5%.
 
 <p align="center">
-    <img width="450" height="342" src='/images/whitcomb.PNG'>
+    <img width="450" height="342" src='/images/Whitcomb.PNG'>
 </p>
 <p align="center">
     Photo of the Richard Whitcomb in a wind tunnel
