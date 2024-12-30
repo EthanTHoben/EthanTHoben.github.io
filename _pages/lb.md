@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Welcome to Ethan's personal library! I am an amateur librarian and rare books collector, with an emphasis on technical content from STEM fields. As my background is in electrical engineering, I started out collecting useful texts on a variety of EE topics, and eventually branched out into collecting any text I think will be an interesting topic to learn about. The majority of my collection are used titles.
+*When you stand inside somebody’s library, you get a powerful sense of who they are, and not just who they are now but who they’ve been. . . . It’s a wonderful thing to have in a house. It’s something I worry is endangered by the rise of the e-book. When you turn off an e-book, there’s no map. All that’s left behind is a chunk of gray plastic.*
+
+-Lev Grossman
+
+Welcome to my personal library! I am an amateur librarian and rare books collector, with an emphasis on technical content from STEM fields. As my background is in electrical engineering, I started out collecting useful texts on a variety of EE topics, and eventually branched out into collecting any text I think will be an interesting topic to learn about. The majority of my collection are used titles.
 
 My life goal for my library is to have the largest technical library on earth, at least the largest one owned by a single private individual. I have yet to find anyone claiming that title publicly, but I am sure somone is ahead of me at the moment, but not for long!
 
