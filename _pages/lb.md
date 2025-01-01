@@ -42,6 +42,7 @@ That being said, I have quite a few interesting stories for some of the books an
 * [The Story of James N. Walbert](https://ethanthoben.github.io//story-5/)
 * [The Story of Richard F. Sawyer](https://ethanthoben.github.io//story-19/)
 * [The Story of Louis B. Gratzer](https://ethanthoben.github.io//story-8/)
+* [The Story of William B. Jensen](https://ethanthoben.github.io//story-20/)
 
 Additionally, some of my books have unique origins, from the private technical libraries of companies to universities far and wide and those are listed below:
 * [Jet Propulsion and Princeton](https://ethanthoben.github.io//story-7/)
