@@ -7,6 +7,8 @@ permalink: /story-12/
     <img width="450" height="342" src='/images/surfaces.jpg'>
 </p>
 
+
+
 <p align="center">
     <img width="450" height="342" src='/images/AN.jpg'>
 </p>
